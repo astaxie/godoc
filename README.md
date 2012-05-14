@@ -4,9 +4,9 @@
 golang manual for chm
 
 
-### How to use
+### How to download
 
-Just download the chm, then open it.
+click downloads, then just download the chm
 
 screenshot:
 ![](https://github.com/astaxie/godoc/raw/master/demo.png)
