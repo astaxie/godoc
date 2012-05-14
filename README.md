@@ -11,5 +11,7 @@ click downloads, then just download the chm
 screenshot:
 ![](https://github.com/astaxie/godoc/raw/master/demo.png)
 
-## License
-Released under the [MIT license](http://www.opensource.org/licenses/MIT).
+## LICENSE
+
+ BSD License
+ [http://creativecommons.org/licenses/BSD/](http://creativecommons.org/licenses/BSD/)
