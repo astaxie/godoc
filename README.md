@@ -17,4 +17,5 @@ screenshot:
  [http://creativecommons.org/licenses/BSD/](http://creativecommons.org/licenses/BSD/)
 
  ## Update logs
- 2012-05-14 Version 1.0.0
+
+   2012-05-14 Version 1.0.0
