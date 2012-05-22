@@ -17,5 +17,8 @@ screenshot:
  [http://creativecommons.org/licenses/BSD/](http://creativecommons.org/licenses/BSD/)
 
 ## Update logs
-
+  2012-05-22 Version 1.1.0
+     * Improvement index
+     * Click on the function can be the code
+   
   2012-05-14 Version 1.0.0
