@@ -6,7 +6,7 @@ golang manual for chm
 
 ### How to download
 
-click downloads, then just download the chm
+click [downloads](https://github.com/astaxie/godoc/downloads), then just download the chm
 
 screenshot:
 ![](https://github.com/astaxie/godoc/raw/master/demo.png)
